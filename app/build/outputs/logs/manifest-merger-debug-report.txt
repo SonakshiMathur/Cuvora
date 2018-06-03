@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3ea027e344648c42ac257e24758ae990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/810949ad873e3ccc5d2717e7dc107184/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ff7cd54595988e27afd9068b243aa73f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/a83bec32b8d8c546ebdf381a86380cf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/77253520214c3a4f7c446e2d177168b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6bdedf083890eb7d3c718a4b2bfd829a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ab5452376d4770435a4de09e4a7a101/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0a42024d44d5d26c66112a3abb8dbf89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/617d5f353ad9c108a87f03c0f02e8074/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/29f616fa876c096f5ddf35d37c46e0fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f79cc2bf6dcb92654a2015f1beee3b1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4b6fa9468592ce70d0d033991e8ccd3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/906b0cac0e5b834dca77423d0318e243/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/479032fe712ee22819b4bd4817c8b7bd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5170cfdf7aea0ed55e0d2fb0fcd836ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/876bcede7344a30e3f392afa7c1c9365/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d19538c0b5c69c575f1240c4a65e0436/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/31527398b070342f3f55a40d3bdffafe/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ff7cd54595988e27afd9068b243aa73f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ff7cd54595988e27afd9068b243aa73f/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.sonakshi.cuvora.MainActivity
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.sonakshi.cuvora.DetailedList
+ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml:22:19-47
+uses-sdk
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3ea027e344648c42ac257e24758ae990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3ea027e344648c42ac257e24758ae990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/810949ad873e3ccc5d2717e7dc107184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/810949ad873e3ccc5d2717e7dc107184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ff7cd54595988e27afd9068b243aa73f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ff7cd54595988e27afd9068b243aa73f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/a83bec32b8d8c546ebdf381a86380cf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/a83bec32b8d8c546ebdf381a86380cf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/77253520214c3a4f7c446e2d177168b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/77253520214c3a4f7c446e2d177168b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6bdedf083890eb7d3c718a4b2bfd829a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6bdedf083890eb7d3c718a4b2bfd829a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ab5452376d4770435a4de09e4a7a101/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ab5452376d4770435a4de09e4a7a101/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0a42024d44d5d26c66112a3abb8dbf89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0a42024d44d5d26c66112a3abb8dbf89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/617d5f353ad9c108a87f03c0f02e8074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/617d5f353ad9c108a87f03c0f02e8074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/29f616fa876c096f5ddf35d37c46e0fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/29f616fa876c096f5ddf35d37c46e0fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f79cc2bf6dcb92654a2015f1beee3b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f79cc2bf6dcb92654a2015f1beee3b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4b6fa9468592ce70d0d033991e8ccd3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4b6fa9468592ce70d0d033991e8ccd3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/906b0cac0e5b834dca77423d0318e243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/906b0cac0e5b834dca77423d0318e243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/479032fe712ee22819b4bd4817c8b7bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/479032fe712ee22819b4bd4817c8b7bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5170cfdf7aea0ed55e0d2fb0fcd836ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5170cfdf7aea0ed55e0d2fb0fcd836ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/876bcede7344a30e3f392afa7c1c9365/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/876bcede7344a30e3f392afa7c1c9365/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d19538c0b5c69c575f1240c4a65e0436/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d19538c0b5c69c575f1240c4a65e0436/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/31527398b070342f3f55a40d3bdffafe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/31527398b070342f3f55a40d3bdffafe/AndroidManifest.xml:20:5-44
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Cuvora/app/src/main/AndroidManifest.xml
